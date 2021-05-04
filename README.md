@@ -27,6 +27,5 @@
 
 <h2 align="center"> My Recent post on Medium!</h2>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2" alt="Recent Article 2">   
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1"> 
