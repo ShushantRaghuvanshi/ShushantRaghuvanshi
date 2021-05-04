@@ -27,5 +27,5 @@
 
 <h2 align="center"> My Recent post on Medium!</h2>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://mohitjaisal.medium.com/a-git-cheatsheet-for-developers-git-github-cli-cheatsheet-for-beginners-to-advance-f61effc27596"><img src="https://mohitjaisal.medium.com/a-git-cheatsheet-for-developers-git-github-cli-cheatsheet-for-beginners-to-advance-f61effc27596" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1"> 
