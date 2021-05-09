@@ -25,7 +25,3 @@
 [facebook]: https://facebook.com/shushantraghuvanshi19
 
 
-<h2 align="center"> My Recent post on Medium!</h2>
-
-<a target="_blank" href="https://mohitjaisal.medium.com/a-git-cheatsheet-for-developers-git-github-cli-cheatsheet-for-beginners-to-advance-f61effc27596"><img src="https://miro.medium.com/max/3840/1*V9ccPZTs2GeuQTnThJP7cg.png" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1"> 
